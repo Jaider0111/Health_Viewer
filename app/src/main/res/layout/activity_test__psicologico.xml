@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fond"
+    tools:context="UI.Test_Psicologico">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/pregunta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/preg1"
+                android:textColor="#000"
+                android:textSize="24sp" />
+
+            <RadioGroup
+                android:id="@+id/P1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RadioButton
+                    android:id="@+id/P1R1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/p1r1"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                    android:textColor="#000"
+                    android:textSize="24sp" />
+
+                <RadioButton
+                    android:id="@+id/P1R2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/p1r2"
+                    android:textColor="#000"
+                    android:textSize="24sp" />
+
+                <RadioButton
+                    android:id="@+id/P1R3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/p1r3"
+                    android:textColor="#000"
+                    android:textSize="24sp" />
+
+                <RadioButton
+                    android:id="@+id/P1R4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/p1r4"
+                    android:textColor="#000"
+                    android:textSize="24sp" />
+
+            </RadioGroup>
+
+            <Button
+                android:id="@+id/siguiente"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/other"
+                android:onClick="guardar"
+                android:text="SIGUIENTE"
+                android:textColor="#000"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/reg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/other"
+                android:enabled="false"
+                android:onClick="deshacer"
+                android:text="REGRESAR"
+                android:textColor="#000"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

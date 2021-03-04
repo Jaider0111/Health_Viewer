@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Health Viewer</string>
+    <string name="email">Ingresa tu E-Mail</string>
+    <string name="contraseña">Ingresa tu contraseña</string>
+    <string name="guardar">Mantener sesion iniciada</string>
+    <string name="texto">Si no tienes un usuario en esta app crea uno.</string>
+    <string name="iniciarses">Iniciar sesion</string>
+    <string name="nuevouser">Crear nuevo usuario</string>
+    <string name="confcontraseña">Confirma tu contraseña</string>
+    <string name="crearuser">Registrar</string>
+    <string name="prog">Mis Estadisticas</string>
+    <string name="testpsico">Test Psicologico</string>
+    <string name="testfisico">Test Fisico</string>
+    <string name="acercade">Acerca de</string>
+    <string name="guardarb">Terminar</string>
+    <string name="resultado">0</string>
+    <string name="preg1">¿Le preocupa de manera constante el hecho de perder a sus amigos, familiares (u otras figuras de apego) por enfermedades, muertes, entre otros?</string>
+    <string name="preg2">¿Los eventos sociales, hablar en público o ser observado le suele generar miedo o preocupación?</string>
+    <string name="preg3">¿Tiene ataques espontáneos que involucran palpitaciones aceleradas, sudoración, temblores, mareo, ahogo o miedo a perder el control y/o morir? </string>
+    <string name="preg4">¿Cada cuánto siente la necesidad de comerse las uñas, morderse el labio, halar su cabello, rascarse, entre otros relacionados?</string>
+    <string name="preg5">¿Suele sentirse estresado?</string>
+    <string name="preg6">¿Tiene arrebatos de furia, comportamiento irritable, poca paciencia y otros síntomas de alerta?</string>
+    <string name="preg7">En las situaciones que le generan estrés, ¿cómo suele reaccionar?</string>
+    <string name="preg8">¿Presenta alteración del sueño, falta de interés en sus actividades diarias o su apetito?</string>
+    <string name="preg9">¿Cuál de las siguientes le genera más preocupación?</string>
+    <string name="preg10">¿Le cuesta adaptarse a nuevas situaciones o entornos?</string>
+
+    <string name="pregF1">¿Incluye diariamente alimentos de todos los grupos? (almidones, granos y cereales, frutas, vegetales, carnes, lácteos)</string>
+    <string name="pregF2">¿Utiliza condimentos naturales al preparar las comidas en casa?</string>
+    <string name="pregF3">¿Evita consumir alimentos con alto contenido de sal, con condimentos artificiales o empaquetados?</string>
+    <string name="pregF4">¿Evita consumir alimentos fritos?</string>
+    <string name="pregF5">¿Evita las gaseosas, te fríos y bebidas azucaradas?</string>
+    <string name="pregF6">¿Consumé poco azúcar, dulces, pastillas, chocolates, helados y otros alimentos con alto contenido de azúcar?</string>
+    <string name="pregF7">¿Consumé diariamente frutas y vegetales?</string>
+    <string name="pregF8">¿Toma por lo menos 8 vasos de agua al día?</string>
+    <string name="pregF9">¿Considera que mantiene un peso saludable, sin exceso de barriga?</string>
+    <string name="pregF0">¿Realiza todos los días 30 minutos de actividad física?</string>
+
+    <string name="pF1r1">Casi nunca</string>
+    <string name="pF1r2">A veces</string>
+    <string name="pF1r3">Seguido</string>
+    <string name="pF1r4">Muy seguido</string>
+
+    <string name="p1r1">No, o con baja frecuencia.</string>
+    <string name="p1r2">Sí, con una frecuencia moderada.</string>
+    <string name="p1r3">Sí, con alta frecuencia, aunque esto no afecta sus actividades diarias.</string>
+    <string name="p1r4">Sí, al punto que esta preocupación le impide irse lejos, dormir, o le genera malestar.</string>
+    <string name="p2r1">No, o con muy baja frecuencia.</string>
+    <string name="p2r2">Sí, bien con frecuencia moderada, o bien el miedo se limita solo a hablar en público.</string>
+    <string name="p2r3">Sí, con alta frecuencia, aunque logra controlarlo</string>
+    <string name="p2r4">Sí, al punto que no puede controlarlo.</string>
+    <string name="p3r1">No, o casi nunca le sucede.</string>
+    <string name="p3r2">Sí, solo cuando es algo relacionado a fobias específicas.</string>
+    <string name="p3r3">Sí, usualmente de manera repentina, aunque logra controlarlo.</string>
+    <string name="p3r4">Sí, y esto afecta su comportamiento posterior o no logra controlarlo.</string>
+    <string name="p4r1">Nunca o pocas veces.</string>
+    <string name="p4r2">Solo después de consumir sustancias o medicamentos.</string>
+    <string name="p4r3">Frecuentemente.</string>
+    <string name="p4r4">Todo el tiempo.</string>
+    <string name="p5r1">No, usualmente se siente tranquilo.</string>
+    <string name="p5r2">Algunas veces, debido a factores laborales, académicos, personales, familiares y de otros ámbitos.</string>
+    <string name="p5r3">Sí la mayor parte del tiempo.</string>
+    <string name="p5r4">Sí, y le ocurre tras haber pasado por un evento traumático.</string>
+    <string name="p6r1">No, o con muy baja frecuencia.</string>
+    <string name="p6r2">Sí, de manera moderada o cuando siente una carga muy grande.</string>
+    <string name="p6r3">Sí, con alta regularidad, aunque controla sus impulsos.</string>
+    <string name="p6r4">Sí, con alta regularidad, lo que desemboca en agresiones físicas o verbales a otros.</string>
+    <string name="p7r1">Busca calmarse o controlar sus impulsos.</string>
+    <string name="p7r2">No sabe cómo reacciona, aunque no suele presentar problemas después del episodio.</string>
+    <string name="p7r3">No sabe cómo reacciona, pero su comportamiento o relaciones se ven afectados después del episodio.</string>
+    <string name="p7r4">De manera agresiva e inesperada, pues nunca controla sus impulsos.</string>
+    <string name="p8r1">No, tiene un buen ciclo de actividades y de sueño.</string>
+    <string name="p8r2">Sí, ocasionalmente le cuesta conciliar el sueño, pero su rutina no se ve afectada.</string>
+    <string name="p8r3">Sí, suele sentirse cansado, fatigado y prefiere no hacer sus actividades diarias ni comer.</string>
+    <string name="p8r4">Sí, le suceden todos o casi todos los casos mencionados en las dos respuestas de arriba.</string>
+    <string name="p9r1">El presente.</string>
+    <string name="p9r2">El pasado.</string>
+    <string name="p9r3">El futuro.</string>
+    <string name="p9r4">Todos le causan angustia.</string>
+    <string name="p10r1">No, le resulta sencillo.</string>
+    <string name="p10r2">Sí, pero no requiero de tanto esfuerzo para hacerlo.</string>
+    <string name="p10r3">Sí, y requiere de un gran esfuerzo para hacerlo.</string>
+    <string name="p10r4">Sí, y muchas veces no logra hacerlo, trayendo un impacto negativo a sus relaciones o estilo de vida.</string>
+
+
+    <string name="progresoPsico">Tu Progreso Psicomental hasta el dia de hoy es:</string>
+    <string name="progresoFisico">Tu Progreso Fisico hasta el dia de hoy es:</string>
+    <string name="puntaje">Su puntaje en el test</string>
+    <string name="acercadecont">Acerca de app_name</string>
+    <string name="info">Version 1.0</string>
+    <string name="derechos">Copyright © 2020 UNAL</string>
+    <string name="creadores">Creadores:\nNicolas Romero Niño\nJuan Pablo Bustamante\nJaider Andres Pinto</string>
+    <string name="volver">Volver a Inicio</string>
+    <string name="peso">Ingresa tu peso(Kg)</string>
+    <string name="talla">Ingresa tu talla(m)</string>
+
+    <string name="Cf1">Su peso está en la categoría bajo peso. Los riesgos de tener un bajo peso son: Sistema imnulógico débil y mayor riesgo de sufrir infecciones, Problemas de fertilidad, Mayor riesgo de sufrir osteoporosis, Pérdida del cabello. </string>
+    <string name="Cf2">Su peso está en la categoría Normal. Mantener un peso saludable puede reducir el riesgo de enfermedades crónicas asociadas al sobrepeso y la obesidad.</string>
+    <string name="Cf3">Su peso está en la categoría sobrepeso. En las personas que tienen sobrepeso aumenta riesgo de afecciones crónicas, tales como hipertensión arterial, diabetes, colesterol alto, entre otros. </string>
+    <string name="Cf4">Su peso está en la categoría obeso. Las personas que son obesas tienen un gran riesgo de afecciones crónicas, tales como hipertensión arterial, diabetes, colesterol alto, Enfermedad coronaria, Diabetes tipo 2, Cáncer, Dislipidemia, Accidente cerebrovascular, Enfermedad del hígado y de la vesícula, Apnea del sueño y problemas respiratorios, Artrosis, Problemas ginecológicos </string>
+
+    <string name="Rt_fisico1">Posees habitos alimenticios muy pobres. Estás en la zona de peligro, es importante hacer un cambio.</string>
+    <string name="Rt_fisico2">Es importante mejorar tu alimentacion ya que es muy irregular. Estas en una zona de alerta. </string>
+    <string name="Rt_fisico3">Tienes una alimentacion media, hay que esforzarse por mejorar ciertos aspectos.</string>
+    <string name="Rt_fisico4">Mantienes habitos alimenticios saludables, vas por un buen camino.</string>
+    <string name="Rt_fisico5">Excelente, tienes una completa y balanceada alimentación ademas de realizar actividad fisica.</string>
+
+    <string name="ayuda_unal">La universidad puede proveer de sus servicios a traves del area de salud, contactando a Tel.:(57-1) 316 5000 Ext. 21072 / 21061, areasalud_bog@unal.edu.co o en la dirección Campus Santa Rosa - Centro de Atención de Salud Estudiantil (CASE) - Carrera 59 NO. 43-05 CAN Bloque 3, Edificio 933</string>
+
+</resources>
